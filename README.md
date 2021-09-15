@@ -1,4 +1,4 @@
-# PreviouslyOn
+# BetaSeries API - React project
 
 Reproduction du site [betaseries](https://www.betaseries.com/) permettant le suivi des series visionnées en utilisant l'api fournie sur le site.
 
